@@ -29,11 +29,6 @@
   transition: all .2s ease;
 }
 
-.gallery-item:hover .gallery-overlay {
-  opacity: 1;
-  height: 30%;
-}
-
 .gallery-overlay .content {
   font-size: 1.1rem;
 }

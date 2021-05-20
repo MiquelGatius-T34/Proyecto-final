@@ -1,5 +1,5 @@
 .header {
-  background: url("../img/bg.jpg") bottom center;
+  background: url("../img/fondo.jpg") bottom center;
   background-size: cover;
   height: 100vh;
 
@@ -30,9 +30,6 @@
   bottom: 0;
   left: 0;
   right: 0;
-  background-color: black;
-  background: url("../img/simple-pattern-overlay.png") top left repeat;
-  opacity: 0.5;
   z-index: 31;
 }
 
@@ -60,8 +57,7 @@
 }
 
 .header-content .promo-text {
-  margin: 60% -2rem 0 -2rem;
-  background-color: rgba(255, 255, 255, 0.25);
+  margin: 50% -2rem 0 -2rem;
   padding: 2rem 2rem;
   text-shadow: black 2px 2px 2px;
 }
