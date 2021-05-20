@@ -19,4 +19,8 @@
   "engines": {
     "node": "14.x"
   }
+  "routes":{
+    "root": "index.html"
+  }
 }
+
